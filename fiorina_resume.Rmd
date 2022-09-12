@@ -1,0 +1,111 @@
+---
+title: ""
+output:
+    html_document:
+        css: ["custom_css.css", "style.css"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+# Marc-Andrea Fiorina
+### 1426 5th Street NW — Washington, D.C. 20001 — mfiorina@worldbank.org
+
+---
+
+## Experience
+</center>
+
+---
+
+### <u>**The World Bank**</u> (Washington, D.C.)
+
+---
+
+**Research Analyst – WFP Impact Evaluation Project** — August 2021-Present
+
+Overseeing data work to evaluate World Food Programme food-for-assets (FFA) programs in 6 countries.
+
+- Data cleaning, construction, visualization, and econometric analysis using R
+- Coordinating collection and harmonization of household data across 18 data collection rounds
+- Evaluating the impact of CFA targeting on gender norms and women’s economic outcomes
+- Developing presentations and briefs to deliver results to donors, academics, and a wider audience
+
+---
+
+**Research Assistant – WFP Impact Evaluation Project** — July 2020-July 2021
+
+Worked as the sole data researcher during initial data collection, survey design and initial analysis.
+
+- Built a multi-country survey instrument for phone-based and in-person household surveys using SurveyCTO
+- Built instruments to monitor the data using high-frequency checks that are now used across many other DIME projects
+- Data cleaning, construction, visualization, and econometric analysis using R
+
+---
+
+**Research Assistant – Policy Impact Project** — October 2020-June 2021
+
+Created a monitoring and evaluation toolkit based on DIME’s M&E tools.
+
+- Data cleaning and analysis using survey data from DIME’s 200+ impact evaluation projects
+- Creation of visual output and statistics of DIME’s portfolio using Stata and R
+
+---
+
+**Intern – IEConnect Project** — February 2019–September 2019
+
+Supported pre-evaluation assessment and visualization of Ethiopia’s highway system improvements.
+
+- Geocoding and econometric analysis of spatial, administrative, and traffic data using R
+- Main author of policy brief intended for Ethiopian policy-makers on DIME’s impact evaluation process
+
+---
+
+### <u>**The Johns Hopkins School of Advanced International Studies**</u> (Washington, D.C.)
+
+---
+
+**Research Assistant – Dr. Vikram Nehru** — May 2019-October 2019
+
+Conducted quantitative analysis for policy white papers intended for the Indonesian administration.
+
+**Teaching Assistant**<br>
+&emsp;- **Statistical Methods, Microeconomics** — September 2017–December 2017<br>
+&emsp;- **International Trade Theory, Game Theory** — August 2018–May 2019
+
+Created resources and provided Economics classes and office hours for 300+ students.
+
+---
+
+<div style="text-align: center"><font size = 6>Education</font></div>
+
+---
+
+### <u>**The Johns Hopkins School of Advanced International Studies**</u> (Washington, D.C.)
+**MA International Politics and International Economics, 2019**
+
+Selected Courses: Applied Econometrics; Public Finance; Behavioral Economics
+
+---
+
+### <u>**St Catherine’s College, University of Oxford**</u> (Oxford, United Kingdom)
+**BA (Hons) Philosophy, Politics, and Economics, 2017**
+
+Graduated with Upper Second Class Honors (2.1)
+
+---
+
+### Languages
+
+**English** (Fluent); **French** (Fluent); **Italian** (Advanced)
+
+### Technical Skills
+
+**R** (Advanced); **Stata** (Advanced); **SurveyCTO** (Advanced); **GitHub**; Econometric Analysis; Policy Report Writing; Dataset Cleaning and Manipulating
+
+### Interests
+
+Music composition; Music journalism; Mathematical puzzles
+
